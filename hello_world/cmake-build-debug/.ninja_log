@@ -1,3 +1,5 @@
 # ninja log v6
 2	1131	1725646455034515660	CMakeFiles/hello_world.dir/main.cpp.o	9113ecd33d31d2cf
 1135	1270	1725646456167892018	hello_world	ed892bc6a6cb56bd
+8	1192	1726080050387753454	CMakeFiles/hello_world.dir/main.cpp.o	9113ecd33d31d2cf
+1193	1308	1726080051572909098	hello_world	ed892bc6a6cb56bd
